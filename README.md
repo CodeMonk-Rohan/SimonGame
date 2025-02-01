@@ -1,3 +1,4 @@
 Basic JS Game 
 
-![47265](https://github.com/user-attachments/assets/b08ccee4-ddcc-467b-9cea-173bafb5eb3c)
+
+<img width="1470" alt="SimonGame" src="https://github.com/user-attachments/assets/f9a15629-693b-4381-8c9f-b942b4cba44b" />
